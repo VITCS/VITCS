@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Lokanath
 - 👀 I’m interested in App and Web development
-- 🌱 I’m currently learning Flutter and Dart
+- 🌱 I’m currently learning Golang
 - 💞️ I’m looking to collaborate on Any full stack app development 
 - 📫 How to reach me.. Email me: lokanath598@gmail.com
 
